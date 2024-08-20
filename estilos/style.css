@@ -17,6 +17,7 @@ main{
     position: relative;
 }
 section#login{
+    position: absolute;
 background-color: white;
 width: 250px;
 height: 500px;
